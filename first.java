@@ -20,5 +20,11 @@ public class first {
         int y = 5;
         int ans2 = (x*y)/(x-y);
         System.out.println(ans2);
+
+        /*
+                Defination of java
+
+                A variable in Java is a named container used to store data that your program can use and manipulate during execution.
+         */
     }
 }
